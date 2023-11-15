@@ -1,0 +1,46 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Teko:wght@300&display=swap');
+
+
+.announcementbar {
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+.navbar {
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+}
+
+.navbar-dropdown {
+    font-size: 20px;
+}
+
+a.button {
+    font-size: 20px;
+    font-family: 'Teko', sans-serif;
+    font-weight: bold;
+    padding: 10px 15px;
+
+}
+
+.columns {
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.column1 {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+}
